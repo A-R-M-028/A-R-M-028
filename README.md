@@ -1,7 +1,7 @@
 ![!logo](https://github.com/A-R-M-028/A-R-M-028/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ashikur Rahaman</h1>
 <h3 align="center">An Enthusiast Learner & Exploring Life as well</h3>
-<p align="right"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="400px" /> </p>
+<p align="center"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="400px" /> </p>
 
 - 🌱 I’m currently learning **Software Development**
 
