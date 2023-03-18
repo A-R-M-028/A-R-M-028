@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **Web, Data Scince, Open source**
+- 💬 Ask me about **Web, Data Science, Open source**
 
 - 📫 How to reach me itsarm028@gmail.com
 
