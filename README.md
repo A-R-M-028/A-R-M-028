@@ -1,4 +1,3 @@
-![!logo](https://github.com/A-R-M-028/A-R-M-028/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ashikur Rahaman</h1>
 <h3 align="center">An Enthusiast Learner & Exploring Life as well</h3>
 
@@ -6,7 +5,7 @@
 
 - 💬 Ask me about **Web, Data Science, Open source**
 
-- 📫 How to reach me itsarm028@gmail.com
+- 📫 How to reach me ashikurrahamanmolla01@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
