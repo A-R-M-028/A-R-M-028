@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashikur Rahaman</h1>
-<h3 align="center">An Enthusiast Learner & Exploring Life as well</h3>
+<h3 align="center">An Enthusiast Learner, Entreprenuer & SDE</h3>
 
 - 🌱 I’m currently learning **Software Development**
 
