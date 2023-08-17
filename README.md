@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashikur Rahaman</h1>
-<h3 align="center">An Enthusiast Learner, Entreprenuer & SDE</h3>
+<h3 align="center">An Enthusiast Learner, Entrepreneur & SDE</h3>
 
 - 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **Web, Data Science, Open source**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me ashikurrahamanmolla01@gmail.com
+- 📫 Reach me ashikurrahamanmolla01@gmail.com
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
